@@ -3,7 +3,7 @@ from classes.Button import Button
 from constants import *
 
 like_button = Button(LIKE_BUTTON_X_POS,
-                     print("gg")
+
                      LIKE_BUTTON_Y_POS,
                      LIKE_BUTTON_WIDTH,
                      LIKE_BUTTON_HEIGHT)
